@@ -1,0 +1,6 @@
+[10-Dec-2016 18:36:23 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/sgordon/public_html/final/action_items/update_action_item.php on line 79
+[11-Dec-2016 01:08:30 America/Chicago] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/sgordon/public_html/final/action_items/update_action_item.php on line 26
+[11-Dec-2016 01:08:30 America/Chicago] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/sgordon/public_html/final/action_items/update_action_item.php on line 27
+[11-Dec-2016 01:49:48 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgordon/public_html/final/action_items/action_item_form.php on line 12
+[11-Dec-2016 13:34:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'Action' (T_STRING), expecting ',' or ';' in /home/sgordon/public_html/final/action_items/list_action_items.php on line 76
+[11-Dec-2016 16:14:58 America/Chicago] PHP Fatal error:  Function name must be a string in /home/sgordon/public_html/final/action_items/list_action_items.php on line 49

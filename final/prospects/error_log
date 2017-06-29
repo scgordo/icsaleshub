@@ -1,0 +1,10 @@
+[07-Dec-2016 19:23:06 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/sgordon/public_html/final/prospects/create_prospect.php on line 69
+[07-Dec-2016 19:24:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/sgordon/public_html/final/prospects/create_prospect.php on line 69
+[07-Dec-2016 20:27:02 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/sgordon/public_html/final/prospects/create_prospect.php on line 63
+[07-Dec-2016 20:38:55 America/Chicago] PHP Parse error:  syntax error, unexpected '$errors' (T_VARIABLE), expecting '(' in /home/sgordon/public_html/final/prospects/create_prospect.php on line 42
+[07-Dec-2016 20:39:14 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home/sgordon/public_html/final/prospects/create_prospect.php on line 54
+[07-Dec-2016 21:17:46 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/sgordon/public_html/final/prospects/update_prospect.php on line 80
+[10-Dec-2016 16:54:09 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/sgordon/public_html/final/prospects/view_prospect.php on line 36
+[11-Dec-2016 15:27:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'listprospects' (T_STRING), expecting ',' or ';' in /home/sgordon/public_html/final/prospects/view_prospect.php on line 64
+[11-Dec-2016 15:30:07 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sgordon/public_html/final/prospects/view_prospect.php on line 56
+[12-Dec-2016 12:51:33 America/Chicago] PHP Parse error:  syntax error, unexpected '$insert_result' (T_VARIABLE), expecting ',' or ';' in /home/sgordon/public_html/final/prospects/create_prospect.php on line 54

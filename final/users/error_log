@@ -1,0 +1,20 @@
+[30-Nov-2016 20:44:28 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgordon/public_html/final/users/edit_user.php on line 7
+[30-Nov-2016 21:06:29 America/Chicago] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/sgordon/public_html/final/users/create_user.php on line 51
+[30-Nov-2016 21:16:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgordon/public_html/final/users/edit_user.php on line 7
+[30-Nov-2016 21:19:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgordon/public_html/final/users/edit_user.php on line 7
+[30-Nov-2016 21:35:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'listusers' (T_STRING), expecting ',' or ';' in /home/sgordon/public_html/final/users/create_user.php on line 52
+[30-Nov-2016 21:35:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'listusers' (T_STRING), expecting ',' or ';' in /home/sgordon/public_html/final/users/create_user.php on line 52
+[30-Nov-2016 21:35:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'listusers' (T_STRING), expecting ',' or ';' in /home/sgordon/public_html/final/users/create_user.php on line 52
+[30-Nov-2016 21:36:13 America/Chicago] PHP Parse error:  syntax error, unexpected '"> Back to Users List</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/sgordon/public_html/final/users/create_user.php on line 52
+[30-Nov-2016 21:36:38 America/Chicago] PHP Parse error:  syntax error, unexpected '"> Back to Users List</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/sgordon/public_html/final/users/create_user.php on line 52
+[30-Nov-2016 21:37:08 America/Chicago] PHP Parse error:  syntax error, unexpected '"> Back to Users List</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/sgordon/public_html/final/users/create_user.php on line 52
+[30-Nov-2016 21:41:07 America/Chicago] PHP Fatal error:  Call to undefined function redirect_to() in /home/sgordon/public_html/final/users/create_user.php on line 52
+[30-Nov-2016 21:41:29 America/Chicago] PHP Fatal error:  Call to undefined function redirect_to() in /home/sgordon/public_html/final/users/create_user.php on line 52
+[30-Nov-2016 21:42:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'listusers' (T_STRING), expecting ',' or ';' in /home/sgordon/public_html/final/users/create_user.php on line 52
+[30-Nov-2016 21:42:48 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/sgordon/public_html/final/users/create_user.php on line 52
+[30-Nov-2016 22:17:59 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home/sgordon/public_html/final/users/create_user.php on line 57
+[30-Nov-2016 22:18:23 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home/sgordon/public_html/final/users/create_user.php on line 57
+[30-Nov-2016 22:18:47 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home/sgordon/public_html/final/users/create_user.php on line 57
+[30-Nov-2016 22:19:09 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home/sgordon/public_html/final/users/create_user.php on line 57
+[30-Nov-2016 22:21:41 America/Chicago] PHP Parse error:  syntax error, unexpected '">Back to List Users</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/sgordon/public_html/final/users/create_user.php on line 57
+[11-Dec-2016 17:08:26 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/sgordon/public_html/final/users/update_user.php on line 51
